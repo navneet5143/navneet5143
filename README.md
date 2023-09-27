@@ -10,7 +10,7 @@ This is Navneet.
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Computer Science Student at Chandigarh university.
-- 👨‍💻 &nbsp; React developer.
+- 👨‍💻 &nbsp; Front-end developer.
 - 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/navneetkumar112/), [Instagram](https://www.instagram.com/navneet1n/).
 
 <h3>🛠 Tech Stack</h3>
